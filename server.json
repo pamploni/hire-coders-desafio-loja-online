@@ -1,0 +1,72 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "The Arena Show - Samba",
+      "price": 44.9,
+      "local": "Complexo Arena Corinthians",
+      "image": "https://www.baressp.com.br/eventos/fotos2/arena-corinthians-arena-show-baressp-min.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Sorriso Maroto & Xande de Pilares",
+      "price": 39.9,
+      "local": "Clube do Samba",
+      "image": "https://www.baressp.com.br/eventos/fotos2/sorriso-maroto-xande-de-pilares-clube-juventus-baressp-min.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Alô Bateria Samba e Resenha",
+      "price": 49.9,
+      "local": "Burlesque",
+      "image": "https://www.baressp.com.br/eventos/fotos2/alo-bateria-paris-6-burlesque-baressp-min.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Palco do Samba - Xande, Diogo e Reinaldo",
+      "price": 59.9,
+      "local": "Espaço das Americas",
+      "image": "https://cdn.abcdoabc.com.br/palco-samba_7dbe7d95.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Maria Rita",
+      "price": 49.9,
+      "local": "Clube do Samba",
+      "image": "https://s2.glbimg.com/2ArKSVu_gDzZg6vecNKouKiWlMg=/0x0:2000x1333/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/s/j/vTrhZHTwCIEi4on4frng/virada-cultural-2019-05-19-f99a2938-fabio-tito-g1.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Turma do Pagode",
+      "price": 39.9,
+      "local": "Clube Campestre SP",
+      "image": "https://shows2020.com.br/wp-content/uploads/2019/12/shows-turma-do-pagode.jpg"
+    }
+  ]
+}
