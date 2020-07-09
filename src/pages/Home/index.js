@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { MdShoppingBasket, MdLocationOn } from 'react-icons/md';
+import { MdShoppingBasket } from 'react-icons/md';
 import { useDispatch, useSelector } from 'react-redux';
 import axios from 'axios';
 
